@@ -1,1 +1,0 @@
-# JCC-Nodejs-Backend-Adonis
