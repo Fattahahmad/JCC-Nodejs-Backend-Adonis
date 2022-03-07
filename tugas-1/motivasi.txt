@@ -1,0 +1,2 @@
+Motivasi saya mengikuti jabarcodingcamp ini adalah untuk dapat belajar khususnya mempelajari backend Node.js.
+Harapan saya setelah bootcamp ini saya dapat menguasai backend Node.js
